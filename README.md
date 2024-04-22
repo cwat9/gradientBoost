@@ -6,7 +6,7 @@ a classification analysis and a regression analysis.
 
 For our classification analysis, we will be using the Bank Marketing
 dataset from the University of California, Irvine
-(https://archive.ics.uci.edu/dataset/222/bank+marketing).
+(https://archive.ics.uci.edu/dataset/222/bank+marketing) [[1]](#1).
 Named ```bank.csv```
 
 For our regression
@@ -36,5 +36,5 @@ python part3_2-0.py
 ```
 
 ## References
-
+<a id="1">[1]</a> 
 Moro,S., Rita,P., and Cortez,P.. (2012). Bank Marketing. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306.
